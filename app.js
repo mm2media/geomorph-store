@@ -6,6 +6,10 @@ bracelets:{n:'Bracelets',d:'Cuffs and bangles grown from lattices and waves.',im
 all:{n:'Shop all',d:'Every Geomorph piece, printed to order.',img:'p3'}};
 const P=[
 ['fracture-studs','Fracture Studs',20,'earrings',['fault-line'],98,'Faceted black shells crack open to reveal a fine gold lattice glowing inside.','Matte black + silk gold PLA'],
+['fault-core-ring','Fault Core Ring',101,'rings',['fault-line'],160,'A faceted black shell cracks open to reveal a gold honeycomb core.','Matte black + silk gold'],
+['melting-hex-drops','Melting Hex Drops',102,'earrings',['fault-line'],120,'Crisp black hex frames melt into liquid gold drops.','Matte black + silk gold'],
+['gold-rib-wave-cuff','Gold Rib Wave Cuff',103,'bracelets',['fault-line'],215,'Flowing black wave ribs traced with fine gold inlay.','Matte black + gold inlay'],
+['gyroid-crystal-pendant','Gyroid Crystal Pendant',104,'pendants',['fault-line'],165,'A faceted black crystal giving way to an open gold lattice.','Black + gold, 18" chain'],
 ['helix-fin-cuff','Helix Fin Cuff',3,'bracelets',['fault-line'],210,'Twisted black and gold fins spiral around the wrist like a turbine frozen mid-turn.','Matte black + gold PETG'],
 ['delaunay-shell-ring','Delaunay Shell Ring',18,'rings',['fault-line'],150,'A domed signet traced in a fine triangulated gold web over deep black.','Black resin, gold inlay'],
 ['crater-ring','Crater Ring',27,'rings',['fault-line'],140,'Moon-grey band with gold-lined craters that grow as they circle the finger.','Stone grey + gold'],
