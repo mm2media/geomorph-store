@@ -1,0 +1,16 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Geomorph — Geometry, grown.</title><meta name="theme-color" content="#0b0b0b"><link rel="icon" href="img/icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css"></head><body>
+<div class="announce">Test store · Sample prices only · Every piece printed to order</div>
+<header class="hdr"><button class="ic menu-btn" aria-label="Menu" onclick="document.body.classList.toggle('nav-open')">☰</button>
+<a href="#/" class="logo"><img src="img/icon.png" alt="">GEOMORPH</a>
+<nav class="nav"><a href="#/c/all">Shop all</a><a href="#/c/fault-line">Fault Line</a><a href="#/c/morph">Morph</a><a href="#/c/kinetic">Kinetic</a><a href="#/c/rings">Rings</a><a href="#/c/earrings">Earrings</a><a href="#/c/bracelets">Bracelets</a></nav>
+<button class="ic cart-btn" aria-label="Cart" onclick="openCart()">Bag <span id="count">0</span></button></header>
+<main id="app"></main>
+<footer class="ftr"><div class="logo">GEOMORPH</div><p>Geometry, grown.</p><p class="muted">This is a test storefront. Prices are samples and checkout is disabled.</p><p class="muted">© 2026 Geomorph</p></footer>
+<div id="scrim" onclick="closeCart()"></div>
+<aside id="cart" aria-label="Cart"><div class="cart-h"><h3>Your bag</h3><button class="ic" onclick="closeCart()" aria-label="Close">✕</button></div><div id="lines"></div>
+<div class="cart-f"><div class="row"><span>Subtotal</span><b id="sub">$0</b></div><p class="note">Sample prices · taxes &amp; shipping at checkout</p><button class="btn gold full" onclick="checkout(this)">Checkout</button></div></aside>
+<div id="toast"></div>
+<script src="app.js"></script></body></html>
