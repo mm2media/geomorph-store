@@ -13,6 +13,7 @@ const P=[
 ['gold-rib-wave-cuff','Gold Rib Wave Cuff',103,'bracelets',['fault-line'],215,'Flowing black wave ribs traced with fine gold inlay.','Matte black + gold inlay'],
 ['gyroid-crystal-pendant','Gyroid Crystal Pendant',104,'pendants',['fault-line'],165,'A faceted black crystal giving way to an open gold lattice.','Black + gold, 18" chain'],
 ['helix-fin-cuff','Helix Fin Cuff',3,'bracelets',['fault-line'],210,'Twisted black and gold fins spiral around the wrist like a turbine frozen mid-turn.','Matte black + gold PETG'],
+['gold-rib-wave-ring','Gold Rib Wave Ring — Size 13',109,'rings',['fault-line'],150,'The sibling of the Gold Rib Wave Cuff: a matte black band with raised gold wave lines. 22.2 mm inner diameter (US 13), about 10 mm wide, printed in two colors on the Bambu X2D.','Matte black + silk gold, US 13'],
 ['delaunay-shell-ring','Delaunay Shell Ring',18,'rings',['fault-line'],150,'A domed signet traced in a fine triangulated gold web over deep black.','Black resin, gold inlay'],
 ['honeycomb-hoops','Honeycomb Hoops',12,'earrings',['fault-line'],118,'Oversized black hoops with gold-edged hex cells, sold with matching mini studs.','Matte black + gold'],
 ['obsidian-lattice-pendant','Obsidian Lattice Pendant',30,'pendants',['fault-line'],155,'A faceted black gem that dissolves into an open honeycomb, edged in gold.','Black + gold, 18" chain'],
